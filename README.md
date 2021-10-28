@@ -7,4 +7,4 @@ still learning Git and GitHub
 #### I love working with git 
 
 
-#### Git is truly Amazing 
+#### Git is truly Amazing  and powerfull
